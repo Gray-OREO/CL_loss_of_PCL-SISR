@@ -2,6 +2,7 @@
 There is an in-official simple implementation for the proposed CL_loss, which is proposed in "A Practical Contrastive Learning Framework for Single Image Super-Resolution" (2021).
 
 More details please refer to the paper https://arxiv.org/pdf/2111.13924.pdf .
+
 ![PCL-SISR model framework.](./Framework.png)
 
 ## pos_neg_examples_generator.py
