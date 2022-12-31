@@ -1,7 +1,7 @@
 # CL_loss of PCL-SISR
 There is an unofficial implementation for the proposed CL_loss, which is proposed in "[A Practical Contrastive Learning Framework for Single Image Super-Resolution](https://arxiv.org/pdf/2111.13924.pdf)" (2021).
 
-More details please refer to the paper.
+For more details please refer to the paper.
 
 ![PCL-SISR model framework.](./Framework.png)
 
